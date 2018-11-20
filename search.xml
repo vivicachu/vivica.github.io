@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2018%2F11%2F21%2Ftest%2F</url>
-    <content type="text"><![CDATA[test]]></content>
-      <categories>
-        <category>随笔</category>
-        <category>关于自我</category>
-      </categories>
-      <tags>
-        <tag>旅行</tag>
-      </tags>
+    <title><![CDATA[test-img]]></title>
+    <url>%2F2018%2F11%2F21%2Ftest-img%2F</url>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[像经济学家一样思考]]></title>
